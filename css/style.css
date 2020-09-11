@@ -1,0 +1,101 @@
+h3{
+  font-size: 3rem;
+}
+
+.nitem{
+  padding: 0 20px;
+}
+.first{
+  background-color: #d6e0f0;
+}
+.passage{
+  text-align: center;
+  line-height:1.5;
+  padding: 15% 10% 0;
+
+}
+.mind{
+font-family: 'Yanone Kaffeesatz', cursive;
+word-spacing: 2px;
+}
+.love{
+  font-family: 'Pacifico', cursive;
+}
+#feature{
+  padding:7% 15%;
+font-family: 'pacifico';
+  background-color: #fff;
+}
+.feature-box{
+  text-align: center;
+  padding: 10%;
+
+
+}
+.yyy{
+  color: #8f8f8f;
+
+}
+#testimonials{
+  background-color: #d6e0f0;
+  text-align: center;
+
+padding: 7% 15%;
+font-family: 'pacifico', cursive;
+
+}
+.testimonials-img{
+width: 20%;
+border-radius: 100%;
+margin: 20px;
+text-align: center;
+}
+.icon{
+  color: #40a8c4;
+  margin-bottom: 1rem;
+}
+
+
+#press{
+  background-color: #d6e0f0;
+text-align: center;
+padding-bottom: 3%;
+
+}
+.press-img{
+width: 15%;
+margin: 20px 20px 50px;
+}
+.ctac{
+  font-size: 3rem;
+  width: 80%;
+  line-height: 1.5;
+  margin-left: 100px;
+  font-family: monospace;
+
+
+}
+#cta{
+  background-color: #fff;
+  text-align: center;
+
+  padding: 7% 15%;
+  font-size: 3rem;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #d6e0f0;
+}
+.h{
+  margin: 10px 10px;
+}
+.fuck{
+  text-align: center;
+}
+.navy{
+  overflow: hidden;
+  position: fixed;
+  
+
+}
